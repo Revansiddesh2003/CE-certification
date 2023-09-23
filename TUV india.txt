@@ -1,0 +1,12 @@
+contact name-
+TAN number-
+Turnover of the company-
+Electrical ratings: voltage-
+		    current-
+		    NUmber of phases-
+		    power-
+		    frequency-
+Applicable directives-
+Applicable standards-
+Dimension(mm)-
+weight(kg)-
